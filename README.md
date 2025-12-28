@@ -1,5 +1,9 @@
 📊 Personal Loan EMI & Eligibility Calculator (Excel)
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](Screenshot 2025-12-28 204951.png)
+
 This repository contains an Excel-based Personal Loan EMI & Eligibility Calculator, developed as a practical, branch-level tool to simplify and standardise personal loan appraisal.
 
 The project is built from a banker’s perspective, focusing on clarity, speed, and real-world usability rather than complex automation.
